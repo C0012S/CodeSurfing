@@ -49,9 +49,9 @@
 */
 
 
-// 메모리 : 107844KB
-// 시간 : 696ms
-// 코드 길이 : 4619B
+// 메모리 : 110172KB
+// 시간 : 676ms
+// 코드 길이 : 4665B
 // 정답
 
 package C0012S;
@@ -68,7 +68,7 @@ public class BOJ2206 {
     static int N; // 맵의 행의 개수
     static int M; // 맵의 열의 개수
     static int[][] map; // 맵의 정보를 저장하는 배열
-    static int[][][] distanceMap; // 맵의 각 좌표로 이동 시 지나는 칸의 개수의 최솟값을 저장하는 배열  // distance[x][y][0] : 벽을 부수지 않고 이동했을 때의 값을 저장, distance[x][y][1] : 벽 1 개를 부수고 이동했을 때의 값을 저장
+    static int[][][] distanceMap; // 맵의 각 좌표로 이동 시 지나는 칸의 개수의 최솟값을 저장하는 배열  // distance[x][y][0] : 벽을 더 이상 부술 수 없는 상태에서 이동했을 때의 값을 저장, distance[x][y][1] : 벽 1 개를 부술 수 있는 상태에서 이동했을 때의 값을 저장
     static int[] dx = {-1, 1, 0, 0}; // 상, 하, 좌, 우
     static int[] dy = {0, 0, -1, 1}; // 상, 하, 좌, 우
 
