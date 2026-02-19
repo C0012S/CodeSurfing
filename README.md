@@ -227,7 +227,7 @@
 | Day 208 <br/> (2026.01.20.화) | [PRO 389480. 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | 2️⃣ | ☑️ | ❌ | ☑️ | - |
 | Day 209 <br/> (2026.02.10.화) | [BOJ 1863. 스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) | ![Gold4](https://static.solved.ac/tier_small/12.svg) | ❌ | ❌ | ✅ | - |
 | Day 210 <br/> (2026.02.12.목) | [BOJ 2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | ![Gold3](https://static.solved.ac/tier_small/13.svg) | ✅ | ❌ | ☑️ | - |
-| Day 211 <br/> (2026.02.19.목) | [PRO 92343. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 3️⃣ | ☑️ | ❌ |  | - |
+| Day 211 <br/> (2026.02.19.목) | [PRO 92343. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 3️⃣ | ☑️ | ❌ | ☑️ | - |
 
 <br/>
 
